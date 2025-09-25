@@ -4,6 +4,8 @@ description: Lecture presentation.
 file: /courses/15-902-strategic-management-i-fall-2006/7801108f285de0426d1f39c7fda9a457_met_balscore.pdf
 file_size: 213378
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
