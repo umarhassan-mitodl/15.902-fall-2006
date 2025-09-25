@@ -4,6 +4,8 @@ description: Lecture presentation diagram.
 file: /courses/15-902-strategic-management-i-fall-2006/abad4b705d2c449bf5f29064e78b142e_w_m_triangle.pdf
 file_size: 21855
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

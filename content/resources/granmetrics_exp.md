@@ -4,6 +4,8 @@ description: Lecture presentation.
 file: /courses/15-902-strategic-management-i-fall-2006/237361b9155c9ae60b28d8e4a00560a3_granmetrics_exp.pdf
 file_size: 333534
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
