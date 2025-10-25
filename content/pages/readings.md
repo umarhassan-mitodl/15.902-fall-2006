@@ -2,8 +2,6 @@
 content_type: page
 description: The reading section includes required and recommended readings for this
   course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

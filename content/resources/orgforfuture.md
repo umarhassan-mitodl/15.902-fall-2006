@@ -4,8 +4,6 @@ description: Lecture presentation.
 file: /courses/15-902-strategic-management-i-fall-2006/1ccdd8fdaae9c521f54f3b69d3c41fe3_orgforfuture.pdf
 file_size: 1459380
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
