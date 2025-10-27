@@ -244,7 +244,7 @@ Competitive Dynamics
 {{< tdopen >}}
 
 
-Ghemawat, Pankaj, and Bret Baird. "Leadership Online (A): Barnes & Noble vs. [Amazon.com](http://www.amazon.com/)." Boston, MA: Harvard Business School Case 9-798-063, May 26, 1998.
+Ghemawat, Pankaj, and Bret Baird. "Leadership Online (A): Barnes & Noble vs. {{% resource_link "a0914482-a520-4d8c-84e0-c9e65b6c4d50" "Amazon.com" %}}." Boston, MA: Harvard Business School Case 9-798-063, May 26, 1998.
 
 Corts, Kenneth S., and Jan W. Rivkin. "A Note on Microeconomics for Strategists." Boston, MA: Harvard Business School Case 9-799-128. March 30, 1999.
 
@@ -258,7 +258,7 @@ iii. Assess Barnes & Noble's response to the substitution threat from AMAZON®. 
 
 iv. Who will be the online leader? Will it ever make much money selling books (as opposed to selling stock)?
 
-Please contrast the competitive positioning of a traditional, off-line, competitor like Barnes & Noble vs. an on-line channel like [Amazon.com](http://www.amazon.com/). With regard to question i., a customer willingness to pay for a product or a service is the maximum amount of money a customer is willing to part with in order to obtain a product or a service. The question is whether you find any significant difference in your willingness to pay for a book being acquired under these two different channels. In question ii. You might want to use the most recent data provided in Exhibit 4 (1996 for Barnes and Noble) and Exhibit 7 (F2001E for AMAZON®). Remember that Barnes & Noble provides 10% discount off list price, and AMAZON® provides 25%. The case is a good vehicle also to talk about the substitution threat Barnes & Noble and how it is responding against AMAZON®.
+Please contrast the competitive positioning of a traditional, off-line, competitor like Barnes & Noble vs. an on-line channel like {{% resource_link "a0914482-a520-4d8c-84e0-c9e65b6c4d50" "Amazon.com" %}}. With regard to question i., a customer willingness to pay for a product or a service is the maximum amount of money a customer is willing to part with in order to obtain a product or a service. The question is whether you find any significant difference in your willingness to pay for a book being acquired under these two different channels. In question ii. You might want to use the most recent data provided in Exhibit 4 (1996 for Barnes and Noble) and Exhibit 7 (F2001E for AMAZON®). Remember that Barnes & Noble provides 10% discount off list price, and AMAZON® provides 25%. The case is a good vehicle also to talk about the substitution threat Barnes & Noble and how it is responding against AMAZON®.
 
 
 {{< tdclose >}}

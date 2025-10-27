@@ -94,7 +94,7 @@ Hax and Wilde. Chapter 12.
 Customer Segmentation and Customer Value Proposition
 {{< tdclose >}}
 {{< tdopen >}}
-Hax, Arnoldo C. "[Achieving the Potentials of Your Organization - How to Overcome the Dangers of Commoditization](http://ssrn.com/abstract=344561)." MIT Sloan Working Paper No. 4260-02. (September 2002).
+Hax, Arnoldo C. "{{% resource_link "7f20addd-d1af-4e14-9094-8bbc15985590" "Achieving the Potentials of Your Organization - How to Overcome the Dangers of Commoditization" %}}." MIT Sloan Working Paper No. 4260-02. (September 2002).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,4 +370,4 @@ Thompke, S. _Experimentation Matters: Unlocking the Potential of New Technologie
 
 Ulrich, D. _Human Resource Champions_. Boston, MA: Harvard Business School Press, 1997.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/democratizing-innovation) von Hippel, E. [_Democratizing Innovation_](https://mitpress.mit.edu/books/democratizing-innovation). Cambridge, MA: MIT Press, April 2006. ISBN: 0262720477.
+{{% resource_link "abdcbb36-f050-4fa4-84c5-6b368aa257c5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} von Hippel, E. {{% resource_link "abdcbb36-f050-4fa4-84c5-6b368aa257c5" "_Democratizing Innovation_" %}}. Cambridge, MA: MIT Press, April 2006. ISBN: 0262720477.
